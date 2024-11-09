@@ -1,4 +1,4 @@
- simple calculator
+ # simple calculator
 
 # Function to add two numbers
 def add(num1, num2):
